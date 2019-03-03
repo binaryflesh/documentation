@@ -20,7 +20,7 @@ In addition, several other SDKs are being developed, such as: C#, C++.
 The common functions across the various SDKs are：
 
 * Wallet file management
-* Digital identity and verifable claim management
+* Digital identity and verifiable claim management
 * Digital assets
 * Smart contract deployment and invocation
 * Basic operation of blockchain nodes 
